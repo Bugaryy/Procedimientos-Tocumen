@@ -31,30 +31,6 @@ Vuelo ATC 3D recrea en 3D los procedimientos publicados en el **AIP Panamá, AD 
 
 Abre `index.html` en cualquier navegador moderno. Todo va en un solo archivo y no requiere instalación ni servidor.
 
-Para publicarlo con **GitHub Pages**: *Settings → Pages → Deploy from branch → main / root*.
-
-## Estructura
-
-```
-index.html        Aplicación compilada (lista para usar)
-build.py          Script que une las fuentes en index.html
-coast.json        Línea de costa de Panamá
-src/
-  template.html   HTML y estilos de la interfaz
-  sim.js          Motor de vuelo y base de datos de procedimientos
-  app.js          Render 3D, cámaras e interfaz
-  learn.js        Modo Aprender (referencias al AIP)
-  search.js       Buscador del AD 2.1
-  terrain.js      Relieve, ortofoto y aeródromo
-  terrain_data.js Datos de terreno (de Meteo ATC 3D)
-```
-
-Para compilar desde las fuentes:
-
-```bash
-npm install three@0.160.0
-python3 build.py
-```
 
 ## Fuentes
 
