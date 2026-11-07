@@ -1,0 +1,54 @@
+Vuelo ATC 3D · Tocumen (MPTO)
+Copyright (c) 2026 Derek Cuan "Delta Charlie" (https://github.com/Bugaryy)
+Todos los derechos reservados.
+
+Este software, incluidos su código fuente, su diseño, sus textos, sus
+procedimientos modelados y sus elementos gráficos (en conjunto, el
+"Software"), es propiedad exclusiva de su autor, Derek Cuan (Delta Charlie).
+No se concede ninguna licencia, expresa o implícita, sobre el Software, salvo
+los permisos que se indican a continuación.
+
+PERMITIDO
+- Ver y usar el Software en el navegador, en la forma en que su autor lo
+  publica, para fines personales y de estudio.
+- Usarlo en clases o sesiones de instrucción, siempre que se muestre tal
+  cual y se mantenga visible la autoría.
+
+NO PERMITIDO, sin autorización previa y por escrito del autor
+- Copiar, reproducir o redistribuir el Software, total o parcialmente.
+- Modificarlo, traducirlo o crear obras derivadas a partir de él.
+- Publicarlo, alojarlo o ponerlo a disposición de terceros en otro sitio
+  o medio.
+- Venderlo, sublicenciarlo, alquilarlo o usarlo con fines comerciales.
+- Retirar o alterar los avisos de autoría y de derechos reservados.
+- Extraer su código, sus datos o sus recursos para usarlos en otros
+  proyectos.
+
+Para solicitar permiso o una licencia comercial, contacta al autor a través
+de https://github.com/Bugaryy
+
+EXENCIÓN DE GARANTÍA
+El Software se ofrece "tal cual", sin garantía de ningún tipo, expresa o
+implícita, incluidas las de comerciabilidad, idoneidad para un propósito
+particular y no infracción. Es una herramienta educativa y de simulación: no
+debe usarse para la planificación de vuelos, la navegación, el control de
+tránsito aéreo real ni la toma de decisiones operacionales. Los procedimientos
+se basan en el AIP Panamá (AD 2.1-MPTO) en la versión que tuvo el autor y
+pueden no estar vigentes; consulte siempre el AIP y los NOTAM oficiales. En
+ningún caso el autor será responsable de reclamaciones, daños u otras
+responsabilidades derivadas del uso del Software.
+
+TERCEROS
+- La información aeronáutica procede del AIP de Panamá publicado por el
+  Servicio de Información Aeronáutica (AIS Panamá). Sus datos pertenecen a sus
+  titulares; esta licencia no reclama derechos sobre ellos.
+- Incluye Three.js r160, © 2010-2023 three.js authors, bajo licencia MIT
+  (https://github.com/mrdoob/three.js/blob/dev/LICENSE). Su aviso de licencia
+  se conserva dentro del código.
+- La línea de costa se deriva de world-atlas (© Michael Bostock, licencia ISC)
+  con datos de Natural Earth (dominio público).
+- El relieve, la ortofoto y el modelo del aeródromo provienen de Meteo ATC 3D,
+  proyecto del mismo autor.
+
+Los nombres de terceros que aparezcan (aeropuertos, organismos, aerolíneas o
+bibliotecas de software) pertenecen a sus respectivos titulares.
