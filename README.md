@@ -31,7 +31,7 @@ Vuelo ATC 3D recrea en 3D los procedimientos publicados en el **AIP Panamá, AD 
 
 Abre `index.html` en cualquier navegador moderno. Todo va en un solo archivo y no requiere instalación ni servidor.
 
-
+https://www.youtube.com/watch?v=LgpaKd4kjbc
 ## Fuentes
 
 - **AIP Panamá · AD 2.1-MPTO** (AIS Panamá): cartas IAC, SID y STAR, tablas de codificación, AD 2.10, AD 2.22 y AD 2.24.
