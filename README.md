@@ -12,6 +12,13 @@ Creado por **Derek Cuan · "Delta Charlie"** — [github.com/Bugaryy](https://gi
 
 Vuelo ATC 3D recrea en 3D los procedimientos publicados en el **AIP Panamá, AD 2.1-MPTO**, y los vuela con un modelo de vuelo que respeta altitudes, velocidades y virajes. Está pensado para estudiantes de control de tránsito aéreo y para instructores: cada simulación indica **en qué página del AIP** (y del PDF) está la carta que se está volando.
 
+
+
+
+https://github.com/user-attachments/assets/5b23f363-e5ea-4b8c-b9d5-c22ef7beb868
+
+
+
 ## Funciones
 
 - **Fases de vuelo:** en ruta, llegada (STAR), aproximación inicial, intermedia y final, aproximación frustrada, esperas y circuito de tránsito.
@@ -32,6 +39,7 @@ Vuelo ATC 3D recrea en 3D los procedimientos publicados en el **AIP Panamá, AD 
 Abre `index.html` en cualquier navegador moderno. Todo va en un solo archivo y no requiere instalación ni servidor.
 
 https://www.youtube.com/watch?v=LgpaKd4kjbc
+
 ## Fuentes
 
 - **AIP Panamá · AD 2.1-MPTO** (AIS Panamá): cartas IAC, SID y STAR, tablas de codificación, AD 2.10, AD 2.22 y AD 2.24.
@@ -45,4 +53,4 @@ Se permite usarlo en el navegador para estudio personal y en clases. Para copiar
 
 ---
 
-<sub>Hecho en Panamá 🇵🇦 por Delta Charlie · [github.com/Bugaryy](https://github.com/Bugaryy)</sub>
+<sub>Hecho por Delta Charlie · [github.com/Bugaryy](https://github.com/Bugaryy)</sub>
